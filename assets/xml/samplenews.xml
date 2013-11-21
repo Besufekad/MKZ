@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <item>
+		<news_id>1</news_id>
+		<title>Title one</title>
+		<content>CCCCCCCCCCCCCCCCCCCCOOOOOOOOOOOOOOONNNNNNNNNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTTTEEEEEEEEEEEEE
+		    NNNNNNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTT</content>
+		<url>hhhhhhhhhhhhhttttttttttttppppppppppp</url>
+		<image_url>hhhhhhhhhhtttttttttttttpppppppppppp</image_url>
+		<channel>News</channel>
+    </item>
+	<item>
+		<news_id>2</news_id>
+		<title>Title two</title>
+		<content>CNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTTTEEEEEEEEEEEEE
+		    NNNNNNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTT</content>
+		<url>hhtttttttttppppppppppp</url>
+		<image_url>hhhhhtttttpppppppppppp</image_url>
+		<channel>News</channel>
+    </item>
+    <item>
+		<news_id>3</news_id>
+		<title>Title three</title>
+		<content>CCCCCCTTTTTEEEEEEEEEEEEE
+		    NNNNNNNNNNNNNNNNNNNTTTTTTTTTTTTTTTTTTTT</content>
+		<url>hhhhhhhhhhhhppp</url>
+		<image_url>hhhhhhhhppppp</image_url>
+		<channel>News</channel>
+    </item>
+</xml>
